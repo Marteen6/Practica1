@@ -3,3 +3,7 @@ Esta es la practica que estamos haciendo para usar Git
 Es muy divertido
 
 Manana nos enfocaremos en su vida laboral
+
+Ya realice la vinculacion con Github e hice commits
+
+:D
